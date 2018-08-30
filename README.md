@@ -756,5 +756,3 @@ az storage account delete -y -n terraformeks -g Terraform
 az group list
 az group delete -y -n Terraform
 ```
-
-Terraform sources can be found in [GitHub](https://github.com/mudrii/akc_sql_terraform)
